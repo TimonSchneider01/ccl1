@@ -17,7 +17,7 @@ Want to add:
         fixed this by replacing them with corpses
 - Enemies should only be hit by a bullet once!
          fixed this by removing the bullets that connect with enemies
-- Enemies attacking the player!
+- Enemies attacking the player! (Done) needs some tweaking 
 - different enemy types:
    - one patroulling
    - one standing guard
