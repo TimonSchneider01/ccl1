@@ -12,5 +12,5 @@
 14.01.2025:
 
 Want to add: 
-- Jumping
+- Jumping (Done) still needs some tweaking
 - Removing Enemys that got hit by a bullet / maybe add a health bar
