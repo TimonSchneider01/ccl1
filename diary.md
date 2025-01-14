@@ -14,4 +14,10 @@
 Want to add: 
 - Jumping (Done) still needs some tweaking
 - Removing Enemys that got hit by a bullet / maybe add a health bar
+        fixed this by replacing them with corpses
 - Enemies should only be hit by a bullet once!
+         fixed this by removing the bullets that connect with enemies
+- different enemy types:
+   - one patroulling
+   - one standing guard
+   - maybe add a detection box when emenies spot can you
