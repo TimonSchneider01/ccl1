@@ -14,3 +14,4 @@
 Want to add: 
 - Jumping (Done) still needs some tweaking
 - Removing Enemys that got hit by a bullet / maybe add a health bar
+- Enemies should only be hit by a bullet once!
