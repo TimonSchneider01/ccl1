@@ -21,4 +21,5 @@ Want to add:
    - one patroulling
    - one standing guard
    - maybe add a detection box when emenies spot can you
+- Sidescrolling
  
