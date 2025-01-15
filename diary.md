@@ -18,7 +18,7 @@ Want to add:
 - Enemies should only be hit by a bullet once!                                 WiP
 - Enemies attacking the player!                                              Done - needs some tweaking
 - different enemy types:                                                      WiP
-   - one patroulling                                                         Wip
+   - one patroulling                                                         WiP
    - one standing guard                                                      Done
    - maybe add a detection box when emenies spot can you                     Done
 - Sidescrolling (for some reason it stops at one point)                     fixed
