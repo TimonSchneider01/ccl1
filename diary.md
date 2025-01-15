@@ -16,7 +16,7 @@ Want to add:
 - Removing Enemys that got hit by a bullet / maybe add a health bar
         fixed this by replacing them with corpses                              Done
 - Enemies should only be hit by a bullet once!                                 WiP
-- Enemies attacking the player!                                              Done - needs some tweaking
+- Enemies attacking the player!                                              Done 
 - different enemy types:                                                      WiP
    - one patroulling                                                         WiP
    - one standing guard                                                      Done
@@ -29,5 +29,5 @@ Want to add:
 - Fix the physics. bullets sometimes go through the ceiling                  Fixed
 - Add healthbar for Player / Enemies                                          Done
 - Add breakable walls                                                       Done
-- Add a starting screen where the figure is running around
+- Add a starting screen where the figure is running around                  WiP
  
