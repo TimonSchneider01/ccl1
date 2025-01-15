@@ -27,6 +27,7 @@ Want to add:
 
 - Work on some stuff of the ToDo List                                       
 - Fix the physics. bullets sometimes go through the ceiling                  Fixed
-- Add healthbar for Player / Enemies
-- 
+- Add healthbar for Player / Enemies                                          Done
+- Add breakable walls                                                       Done
+- Add a starting screen where the figure is running around
  
