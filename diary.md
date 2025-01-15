@@ -27,4 +27,6 @@ Want to add:
 
 - Work on some stuff of the ToDo List                                       
 - Fix the physics. bullets sometimes go through the ceiling                  Fixed
+- Add healthbar for Player / Enemies
+- 
  
