@@ -30,5 +30,6 @@ Want to add:
 - Add healthbar for Player / Enemies                                          Done
 - Add breakable walls                                                       Done
 - Add a starting screen where the figure is running around                  WiP
-- Add Health Pick Ups 
+- Add Health Pick Ups
+- create a level layout
  
