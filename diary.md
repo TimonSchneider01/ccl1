@@ -25,6 +25,6 @@ Want to add:
 
 15.01.2025:
 
-- Work on some stuff of the ToDo List
-- Fix the physics. bullets sometimes go through the ceiling
+- Work on some stuff of the ToDo List                                       
+- Fix the physics. bullets sometimes go through the ceiling                  Fixed
  
