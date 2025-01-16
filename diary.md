@@ -32,14 +32,15 @@ Want to add:
 - Add a starting screen where the figure is running around                  WiP
 - Add Health Pick Ups
 - create a level layout
-- Add a grenate
-- Add different Weapons
+- Add a grenate 
+- Add different Weapons 
 - Add Physic Objects
+
 
 16.01.2024:
 
 Worked half the day on a arch that describes the bullet drop but scratched it
-- Implemented enemy patroulling
-- Fixed the player shooting
-- Add that the player can die
+- Implemented enemy patroulling                                                Done
+- Fixed the player shooting                                                     Done
+- Add that the player can die                                                  Done
  
