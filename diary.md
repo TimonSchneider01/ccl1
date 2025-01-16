@@ -17,8 +17,8 @@ Want to add:
         fixed this by replacing them with corpses                              Done
 - Enemies should only be hit by a bullet once!                                 WiP
 - Enemies attacking the player!                                              Done 
-- different enemy types:                                                      WiP
-   - one patroulling                                                         WiP
+- different enemy types:                                                      Done
+   - one patroulling                                                         Done
    - one standing guard                                                      Done
    - maybe add a detection box when emenies spot can you                     Done
 - Sidescrolling (for some reason it stops at one point)                     fixed
@@ -32,4 +32,12 @@ Want to add:
 - Add a starting screen where the figure is running around                  WiP
 - Add Health Pick Ups
 - create a level layout
+- Add a grenate
+- Add different Weapons
+
+16.01.2024:
+
+Worked half the day on a arch that describes the bullet drop but scratched it
+- Implemented enemy patroulling
+- 
  
