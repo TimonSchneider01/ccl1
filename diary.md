@@ -34,10 +34,12 @@ Want to add:
 - create a level layout
 - Add a grenate
 - Add different Weapons
+- Add Physic Objects
 
 16.01.2024:
 
 Worked half the day on a arch that describes the bullet drop but scratched it
 - Implemented enemy patroulling
-- 
+- Fixed the player shooting
+- Add that the player can die
  
