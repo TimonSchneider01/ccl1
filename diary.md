@@ -30,17 +30,21 @@ Want to add:
 - Add healthbar for Player / Enemies                                          Done
 - Add breakable walls                                                       Done
 - Add a starting screen where the figure is running around                  WiP
-- Add Health Pick Ups
+- Add Health Pick Ups                                                      Done
 - create a level layout
 - Add a grenate 
 - Add different Weapons 
 - Add Physic Objects
 
 
-16.01.2024:
+16.01.2025:
 
 Worked half the day on a arch that describes the bullet drop but scratched it
 - Implemented enemy patroulling                                                Done
 - Fixed the player shooting                                                     Done
 - Add that the player can die                                                  Done
+
+17.01.2025:
+
+Fix the bullet issue!
  
