@@ -15,7 +15,7 @@ Want to add:
 - Jumping (Done) still needs some tweaking                                    Done
 - Removing Enemys that got hit by a bullet / maybe add a health bar
         fixed this by replacing them with corpses                              Done
-- Enemies should only be hit by a bullet once!                                 WiP
+- Enemies should only be hit by a bullet once!                                 Done
 - Enemies attacking the player!                                              Done 
 - different enemy types:                                                      Done
    - one patroulling                                                         Done
@@ -46,5 +46,19 @@ Worked half the day on a arch that describes the bullet drop but scratched it
 
 17.01.2025:
 
-Fix the bullet issue!
- 
+Fix the bullet issue!                                    Done
+
+20.01.2025:
+
+Started drawing on the background and sprites of main character
+Added a bullet and a healing item.
+
+21.01.2025:
+
+Added a sticky grenade. Drawing the Sprite sheet of that now.
+
+Things that need to be added:
+
+Enemy Sprites!
+Winning Item!
+UI Layout
