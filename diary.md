@@ -62,3 +62,9 @@ Things that need to be added:
 Enemy Sprites!
 Winning Item!
 UI Layout
+
+
+22.01.2024:
+
+Adding an item that needs to be picked up in order to win!
+Create A SetupGame Layout that explains the game!
