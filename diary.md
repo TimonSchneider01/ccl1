@@ -31,22 +31,19 @@ Want to add:
 - Add breakable walls                                                       Done
 - Add a starting screen where the figure is running around                  WiP
 - Add Health Pick Ups                                                      Done
-- create a level layout
-- Add a grenate 
-- Add different Weapons 
-- Add Physic Objects
-
+- create a level layout                                                   Done
+- Add a grenate                                                             Done
 
 16.01.2025:
 
-Worked half the day on a arch that describes the bullet drop but scratched it
+Worked half the day on an arch that describes the bullet drop but scratched it
 - Implemented enemy patroulling                                                Done
 - Fixed the player shooting                                                     Done
 - Add that the player can die                                                  Done
 
 17.01.2025:
 
-Fix the bullet issue!                                    Done
+Fix the bullet (double hit) issue!                                    Done
 
 20.01.2025:
 
@@ -59,12 +56,14 @@ Added a sticky grenade. Drawing the Sprite sheet of that now.
 
 Things that need to be added:
 
-Enemy Sprites!
-Winning Item!
-UI Layout
+Enemy Sprites!                                                         Done
+Winning Item!                                                         Done (Grimoire)
 
 
 22.01.2024:
 
-Adding an item that needs to be picked up in order to win!
-Create A SetupGame Layout that explains the game!
+Adding an item that needs to be picked up in order to win!            Done (Grimoire)
+Create A SetupGame Layout that explains the game!                     Done!
+Added stats to the game:
+When the player wins the game it says how many bullets were shot
+and how long it took the player.
