@@ -60,10 +60,14 @@ Enemy Sprites!                                                         Done
 Winning Item!                                                         Done (Grimoire)
 
 
-22.01.2024:
+22.01.2025:
 
 Adding an item that needs to be picked up in order to win!            Done (Grimoire)
 Create A SetupGame Layout that explains the game!                     Done!
 Added stats to the game:
+
+23.01.2025:
+
+Fixing that the player gets stuck when hitting the ceiling!           Done!
 When the player wins the game it says how many bullets were shot
-and how long it took the player.
+and how long it took the player.                                      Done!
