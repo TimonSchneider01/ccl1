@@ -1,4 +1,5 @@
-# 🎮 **Game Title** 
+# 🎮 **BruteForce** 
+by Timon Schneider
 
 > **Short Pitch**: A brief and catchy description of your game. Highlight the concept, genre, and key features.
 > 
