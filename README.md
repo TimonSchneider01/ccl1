@@ -1,4 +1,5 @@
-  <img src="logo.png" alt="Gameplay Screenshot" width="600">
+# 🎮
+  <img src="logo.png" alt="Gameplay Screenshot" width="800">
   
 > **Short Pitch**: A brief and catchy description of your game. Highlight the concept, genre, and key features.
 > 
