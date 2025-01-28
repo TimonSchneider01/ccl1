@@ -100,10 +100,10 @@ Below are the sprites used to create characters and objects in the game:
 - **Mathmatics/Physics in JS:**: It was satisfying to implement some things i have learned in the Mathematics and Physics Course. When i had to do the shooting on mouseclick i had to do some mathematical calculations in order for the player to shoot where he presses also because there is bulletdrop!
 
 - **Game Graphics:** I was really satisfied with the game graphics i came up with:
--  Spritesheets were definitely the biggest challenge. Making a walking animation was harder than anticipated but i was happy to create two rather nice ones!
--  The Grenade: i wanted to create something that feels like it implodes first and then explodes and was happy it turned out just like that
--  The Grimoire: I was happy with the design of the grimoire and the blinking and watching eye on the cover. Also i like the sparks that surround the book.
--  The Heal: The heal is a floating head in a jar with green liquid and bubbles. i really liked how the animations turned out at the very end!
+  1) Spritesheets were definitely the biggest challenge. Making a walking animation was harder than anticipated but i was happy to create two rather nice ones!
+  2) The Grenade: i wanted to create something that feels like it implodes first and then explodes and was happy it turned out just like that
+  3) The Grimoire: I was happy with the design of the grimoire and the blinking and watching eye on the cover. Also i like the sparks that surround the book.
+  4) The Heal: The heal is a floating head in a jar with green liquid and bubbles. i really liked how the animations turned out at the very end!
 
 
 ### Challenges:
