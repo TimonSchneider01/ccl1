@@ -14,7 +14,7 @@
 
 ### Gameplay:
 <div style="text-align: center;">
-  <img src="Screenshot 2025-01-28 at 16.12.15.png" alt="Gameplay Screenshot" width="600">
+  <img  src="Screenshot 2025-01-28 at 16.12.15.png" alt="Gameplay Screenshot" width="600">
   <img src="Screenshot 2025-01-28 at 17.01.28.png" alt="Gameplay Screenshot" width="600">
 </div>
 
