@@ -1,2 +1,2 @@
-<h1 style="text-align:center">Brute Force!</h1>
-<h2>by Timon Schneider</h2>
+<h1 style="text-align:center;">Brute Force!</h1>
+<h2 style="text-align:center;">by Timon Schneider</h2>
