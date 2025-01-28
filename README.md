@@ -1,5 +1,5 @@
-# 🎮 **BruteForcee** 
-# by Timon Schneider
+# 🎮 **BruteForce** 
+by Timon Schneider
 
 
 ## 📸 **Screenshots**
