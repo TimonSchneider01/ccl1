@@ -33,7 +33,7 @@
   <p>On the top right i showed the controlls of the game - Additionally the player uses the cursor to shoot bullets and aim where the grenade goes!</p>
 </div>
 
----
+==========================================================================================
 
 ## 🎨 **Spritesheets**
 Below are the sprites used to create characters and objects in the game:
@@ -78,11 +78,13 @@ Below are the sprites used to create characters and objects in the game:
 
 ---
 
-### The Servitor-Head (Healing Item) ❤️‍🩹:
+### The Servitor-Head (Healing Item) 🗺️:
 <div style="text-align: center;">
   <img src="test.png" alt="Enemy Spritesheet" width="800">
   <p>*Figure 4: Enemy animations.*</p>
 </div>
+
+==========================================================================================
 
 ## ✍️ **Reflection**
 
