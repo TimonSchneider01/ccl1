@@ -50,6 +50,8 @@ Below are the sprites used to create characters and objects in the game:
 <div style="text-align: center;">
   <img src="EnemySprites.png" alt="Enemy Spritesheet" width="500">
   <p>The EnemySpritesheet was completely original from me, trying to make them look like they come from the tanks that are placed in the level with blue liquid still coming out of there back-tubes.</p>
+    <img src="Enemydead.png" alt="Enemy Spritesheet" width="500">
+    <p>This is what the Enemies look like when they die.</p>
 </div>
 
 ---
