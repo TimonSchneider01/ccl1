@@ -48,6 +48,13 @@ Below are the sprites used to create characters and objects in the game:
 
 ---
 
+### Enemies and NPCs:
+<div style="text-align: center;">
+  <img src="Untitled 01-21-2025 12-41-15 (1).gif" alt="Enemy Spritesheet" width="500">
+  <p>*Figure 4: Enemy animations.*</p>
+</div>
+
+
 ## ✍️ **Reflection**
 
 ### What went well:
