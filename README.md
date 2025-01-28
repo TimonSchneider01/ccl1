@@ -23,12 +23,14 @@
 ### Menu and UI:
 <div style="text-align: center;">
   <img src="Schneider.Timon_02.png" alt="Menu UI Screenshot" width="600">
-  <p>*In the Menu i tried to depict everything the player needs to know: 
+  <p>In the Menu i tried to depict everything the player needs to know: 
     There is a description of what to do in the top left:
     > Kill All Xenos
     > Recover the Grimoire
     > Be As Efficient as Possible
-    *</p>
+    </p>
+  <p>I also wanted to show all the Interactable Objects like the Enemies, the Healing Item and the Grimoire. Additionally the grenade and the bullets are interactable Objects as well</p>
+  <p>On the top right i showed the controlls of the game - Additionally the player uses the cursor to shoot bullets and aim where the grenade goes!</p>
 </div>
 
 ---
