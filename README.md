@@ -70,17 +70,18 @@ Below are the sprites used to create characters and objects in the game:
 
 ---
 
-### The Map:
+### The Healing-Item ❤️‍🩹:
 <div style="text-align: center;">
   <img src="Untitled 01-17-2025 09-46-30.gif" alt="Enemy Spritesheet" width="200">
-  <p>This is the whole level layout - Player has to go from left to right.</p>
+  <p>The Healing Item is a Servitor Head inside of a breeding tank (not lore acurate) </p>
 </div>
 
 ---
 
-### The Main-Menu:
+### The Maps:
 <div style="text-align: center;">
   <img src="test.png" alt="Enemy Spritesheet" width="800">
+    <p>This is the whole level layout - Player has to go from left to right.</p>
     <img src="background3.png" alt="Enemy Spritesheet" width="800">
   <p>This is what the Main Menu looks like. I wanted the player to be able to move in the main menu so i created a smaller version of the main Map.</p>
 </div>
