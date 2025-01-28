@@ -23,7 +23,12 @@
 ### Menu and UI:
 <div style="text-align: center;">
   <img src="Schneider.Timon_02.png" alt="Menu UI Screenshot" width="600">
-  <p>*Figure 2: Menu and user interface.*</p>
+  <p>*In the Menu i tried to depict everything the player needs to know: 
+    There is a description of what to do in the top left:
+    > Kill All Xenos
+    > Recover the Grimoire
+    > Be As Efficient as Possible
+    *</p>
 </div>
 
 ---
