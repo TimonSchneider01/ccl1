@@ -1,9 +1,7 @@
-# 🎮
-  <img src="logo.png" alt="Gameplay Screenshot" width="800">
-  
-> **Short Pitch**: A brief and catchy description of your game. Highlight the concept, genre, and key features.
-> 
-> *Example:* "Explore an alien planet in this retro-inspired platformer where gravity is your greatest ally—or enemy!"
+<img src="logo.png" alt="Gameplay Screenshot" width="800">
+
+  # 🎮
+>  BruteForce is a 2D-Side-Scrolling Shoter Game set in the Warhammer40K Universe. You play as an Astartes Warrior that has to cleanse a hive mind and retrieve a old Grimoire. With your weapon (mouseclick), basic movement (ASD-keys) and a grenade (g-key) you have to be as efficient as possible to please the Emperor!
 
 ---
 
