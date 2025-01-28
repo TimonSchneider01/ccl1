@@ -107,9 +107,11 @@ Below are the sprites used to create characters and objects in the game:
 
 
 ### Challenges:
-- **Time Constraints:** Implementing all the features we envisioned wasn’t possible due to the limited timeframe.
-- **Bug Fixes:** Handling collisions and edge cases for gravity mechanics was tricky.
+- **Compromizing:** due to the limited time of two weeks it was hard to decide which route i should go: more coding or more artwork? Once i finished everything i planned on doing (2 days before due date) i started working on more coding again (implementing grenade) only to realize i need to draw the explosion as well. Getting everything i want in there was the biggest challenge!
+- **Bug Fixes:** Since i worked with the codebase from the 2D Browser Game Coding i started altering the Physics function early on (had to define physics for different Objects like the Player, the Bullets and Enemys) and was not able to use later versions - this lead to a lot of debugging and getting rid of glitches.
+- **Amount of Code:** Since there were many things to implement and make work together, working on one piece of code only to toutch it a week later was hard and confusing at some points - but i made it work and was able to reintroduce myself to my code quickly. Also having more time would have lead to the code being more "clean" all the way through.
 
 ### Lessons Learned:
-- **Prototyping Matters:** Testing early prototypes helped refine the core mechanics quickly.
-- **Keep it Simple:** Focusing on one unique mechanic instead of multiple features made the game more polished.
+- **Planning:** I was really happy that i created a plan and a "backlog" right at the beginning so i had a checklist and developed a feeling for time early on! 
+- **Inspiration:** Inspiration and Passion for a Project fuels me. I chose the Warhammer40k setting for this simple reason. I knew that if i worked on something i admire i will work on it hard!
+- **Getting early feedback:** Asking my colleagues what they thought about my game and showing them what i got after one day was really helpfull to get feedback. Getting feedback right after completing said task helped me reflect on the task and not get overwhelmed by pride of being able to code this. 
