@@ -1,7 +1,7 @@
 <img src="logo.png" alt="Gameplay Screenshot" width="800">
 
   # 🎮
-<p style = "    color: blue;"> BruteForce is a 2D-Side-Scrolling Shoter Game set in the Warhammer40K Universe. You play as an Astartes Warrior that has to cleanse a hive mind and retrieve a old Grimoire. With your weapon (mouseclick), basic movement (ASD-keys) and a grenade (g-key) you have to be as efficient as possible to please the Emperor!
+<p style = "    color: blue;"> BruteForce is a 2D-Side-Scrolling Shoter Game set in the Warhammer40K Universe. You play as an Astartes Warrior who has to cleanse a hive mind on a xenos planet and retrieve an old Grimoire. With your weapon (mouseclick), basic movement (ASD-keys) and a grenade (g-key) you have to be as efficient as possible to please the God-Emperor!
 </p>
 ---
 
@@ -76,6 +76,13 @@ Below are the sprites used to create characters and objects in the game:
   <p>*Figure 4: Enemy animations.*</p>
 </div>
 
+---
+
+### The Servitor-Head (Healing Item) ❤️‍🩹:
+<div style="text-align: center;">
+  <img src="test.png" alt="Enemy Spritesheet" width="800">
+  <p>*Figure 4: Enemy animations.*</p>
+</div>
 
 ## ✍️ **Reflection**
 
