@@ -23,7 +23,7 @@
 
 ### Menu and UI:
 <div style="text-align: center;">
-  <img src="menu.png" alt="Menu UI Screenshot" width="600">
+  <img src="Schneider.Timon_02.png" alt="Menu UI Screenshot" width="600">
   <p>*Figure 2: Menu and user interface.*</p>
 </div>
 
@@ -34,7 +34,7 @@ Below are the sprites used to create characters and objects in the game:
 
 ### Player Character:
 <div style="text-align: center;">
-  <img src="playersheet.png" alt="Player Spritesheet" width="500">
+  <img src="AstartesSprite2.png" alt="Player Spritesheet" width="500">
   <p>*Figure 3: Player character animations.*</p>
 </div>
 
@@ -42,7 +42,7 @@ Below are the sprites used to create characters and objects in the game:
 
 ### Enemies and NPCs:
 <div style="text-align: center;">
-  <img src="enemysheet.png" alt="Enemy Spritesheet" width="500">
+  <img src="EnemySprites.png" alt="Enemy Spritesheet" width="500">
   <p>*Figure 4: Enemy animations.*</p>
 </div>
 
