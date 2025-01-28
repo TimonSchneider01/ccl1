@@ -1,6 +1,5 @@
-# 🎮 **BruteForce** 
-by Timon Schneider
-
+  <img src="logo.png" alt="Gameplay Screenshot" width="600">
+  
 > **Short Pitch**: A brief and catchy description of your game. Highlight the concept, genre, and key features.
 > 
 > *Example:* "Explore an alien planet in this retro-inspired platformer where gravity is your greatest ally—or enemy!"
