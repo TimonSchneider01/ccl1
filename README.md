@@ -81,8 +81,11 @@ Below are the sprites used to create characters and objects in the game:
 ### The Servitor-Head (Healing Item) 🗺️:
 <div style="text-align: center;">
   <img src="test.png" alt="Enemy Spritesheet" width="800">
+    <img src="background3.png" alt="Enemy Spritesheet" width="800">
   <p>*Figure 4: Enemy animations.*</p>
 </div>
+
+
 
 ==========================================================================================
 
