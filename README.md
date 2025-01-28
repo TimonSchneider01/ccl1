@@ -80,7 +80,7 @@ Below are the sprites used to create characters and objects in the game:
 
 ---
 
-### The Maps:
+### **The Maps**:
 <div style="text-align: center;">
   <img src="test.png" alt="Enemy Spritesheet" width="800">
     <p>This is the whole level layout - Player has to go from left to right.</p>
@@ -94,9 +94,17 @@ Below are the sprites used to create characters and objects in the game:
 
 ## ✍️ **Reflection**
 
-### What went well:
-- **Creative Design:** The theme and style came together seamlessly, and the sprites were fun to design.
-- **Core Mechanics:** The gravity-based gameplay worked better than expected and provided a unique challenge.
+### Achievments:
+- **Time Management:** After the first two days of getting my head into the project and laying out everything i need to achieve in these days i was not stressed after all. I knew what i wanted to implement and what i need to do to achieve this. (Altough there might have been some All-nighters but just because it was fun)
+  
+- **Mathmatics/Physics in JS:**: It was satisfying to implement some things i have learned in the Mathematics and Physics Course. When i had to do the shooting on mouseclick i had to do some mathematical calculations in order for the player to shoot where he presses also because there is bulletdrop!
+
+- **Game Graphics:** I was really satisfied with the game graphics i came up with:
+-  Spritesheets were definitely the biggest challenge. Making a walking animation was harder than anticipated but i was happy to create two rather nice ones!
+-  The Grenade: i wanted to create something that feels like it implodes first and then explodes and was happy it turned out just like that
+-  The Grimoire: I was happy with the design of the grimoire and the blinking and watching eye on the cover. Also i like the sparks that surround the book.
+-  The Heal: The heal is a floating head in a jar with green liquid and bubbles. i really liked how the animations turned out at the very end!
+
 
 ### Challenges:
 - **Time Constraints:** Implementing all the features we envisioned wasn’t possible due to the limited timeframe.
