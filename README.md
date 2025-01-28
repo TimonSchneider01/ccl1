@@ -48,9 +48,25 @@ Below are the sprites used to create characters and objects in the game:
 
 ---
 
-### Enemies and NPCs:
+### The Grenade:
 <div style="text-align: center;">
   <img src="Untitled 01-21-2025 12-41-15 (1).gif" alt="Enemy Spritesheet" width="500">
+  <p>*Figure 4: Enemy animations.*</p>
+</div>
+
+---
+
+### The Grimoire:
+<div style="text-align: center;">
+  <img src="Untitled 01-22-2025 09-54-19.gif" alt="Enemy Spritesheet" width="500">
+  <p>*Figure 4: Enemy animations.*</p>
+</div>
+
+---
+
+### The Servitor-Head (Healing Item):
+<div style="text-align: center;">
+  <img src="Untitled 01-17-2025 09-46-30.gif" alt="Enemy Spritesheet" width="500">
   <p>*Figure 4: Enemy animations.*</p>
 </div>
 
