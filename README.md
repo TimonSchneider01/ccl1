@@ -41,7 +41,7 @@ Below are the sprites used to create characters and objects in the game:
 ### The Astartes ⚔️:
 <div style="text-align: center;">
   <img src="AstartesSprite2.png" alt="Player Spritesheet" width="500">
-  <p></p>
+  <p>This is the Main Characters Spritesheet - i took inspiration from my miniatures and of course from all the Warhammer Content Online.</p>
 </div>
 
 ---
@@ -49,7 +49,7 @@ Below are the sprites used to create characters and objects in the game:
 ### Enemies 👾:
 <div style="text-align: center;">
   <img src="EnemySprites.png" alt="Enemy Spritesheet" width="500">
-  <p>*Figure 4: Enemy animations.*</p>
+  <p>The EnemySpritesheet was completely original from me, trying to make them look like they come from the tanks that are placed in the level with blue liquid still coming out of there back-tubes.</p>
 </div>
 
 ---
@@ -57,7 +57,7 @@ Below are the sprites used to create characters and objects in the game:
 ### The Grenade 💣:
 <div style="text-align: center;">
   <img src="Untitled 01-21-2025 12-41-15 (1).gif" alt="Enemy Spritesheet" width="200">
-  <p>*Figure 4: Enemy animations.*</p>
+  <p>With the Grenade Sprite i tried to create something that first implodes before it explodes. </p>
 </div>
 
 ---
@@ -65,24 +65,24 @@ Below are the sprites used to create characters and objects in the game:
 ### The Grimoire 🔮:
 <div style="text-align: center;">
   <img src="Untitled 01-22-2025 09-54-19.gif" alt="Enemy Spritesheet" width="200">
-  <p>*Figure 4: Enemy animations.*</p>
+  <p>The Grimoire the player has to retreive - lurking to be found and read to let chaos lose.</p>
 </div>
 
 ---
 
-### The Servitor-Head (Healing Item) ❤️‍🩹:
+### The Map:
 <div style="text-align: center;">
   <img src="Untitled 01-17-2025 09-46-30.gif" alt="Enemy Spritesheet" width="200">
-  <p>*Figure 4: Enemy animations.*</p>
+  <p>This is the whole level layout - Player has to go from left to right.</p>
 </div>
 
 ---
 
-### The Servitor-Head (Healing Item) 🗺️:
+### The Main-Menu:
 <div style="text-align: center;">
   <img src="test.png" alt="Enemy Spritesheet" width="800">
     <img src="background3.png" alt="Enemy Spritesheet" width="800">
-  <p>*Figure 4: Enemy animations.*</p>
+  <p>This is what the Main Menu looks like. I wanted the player to be able to move in the main menu so i created a smaller version of the main Map.</p>
 </div>
 
 
