@@ -31,6 +31,7 @@
     </p>
   <p>I also wanted to show all the Interactable Objects like the Enemies, the Healing Item and the Grimoire. Additionally the grenade and the bullets are interactable Objects as well</p>
   <p>On the top right i showed the controlls of the game - Additionally the player uses the cursor to shoot bullets and aim where the grenade goes!</p>
+  <p>I also wanted to have a main menu where the player can move!</p>
 </div>
 
 ==========================================================================================
