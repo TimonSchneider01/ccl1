@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Hello, world!</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="" />
+  <link rel="stylesheet" type="text/css" href="./css/style.css" />
+  <link rel="icon" href="favicon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lilita+One&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- further HTML elements, that should maybe be displayed above your game. E.g. Healtbar, .... -->
+  <!-- <div id="healthDisplay">Health:</div> -->
+  <div id="gameContainer">
+    <div id="menu">
+    <img id="logo" src="./images/logo.png" alt="">
+    <h1 id="start">Start Mission</h1>
+  </div>
+  <!-- further HTML elements, that should be behind your game. e.g. Background image, .... -->
+  <div id="background"></div>
+  <div id="draw">
+    <canvas id="UI" width="1200" height="130"></canvas>
+      <canvas id="canvas" width="6000" height="720"></canvas> <!-- change the size attributes of your canvas according to your game -->
+    </div> <!-- change the size attributes of your canvas according to your game -->
+    <!-- further HTML elements, that should overlay your game. e.g. Main Screen, Game Over screen, .... -->
+    <!-- <div id="gameOverScreen"></div> -->
+    <!-- <div id="mainScreen"></div> -->
+  </div>
+  <div id="lose">
+    <h1>You died</h1>
+    <h2>The Emperor is disappointed..</h2>
+    <h2 id="reload">Back to HQ</h2>
+  </div>
+  <div id="win">
+    <h1>You have found the lost Grimoire!</h1>
+    <h1 id="stats"></h1>
+    <h2 id="reload2">Return to HQ for Sitrep</h2>
+  </div>
+  <!-- further HTML elements, that should maybe be displayed below your game. E.g. Score, .... -->
+  <!-- <div id="scoreDisplay">Score: </div> -->
+
+  <script type="module" src="./scripts/modules/global.js"></script>
+  <script type="module" src="./scripts/modules/inputLag.js"></script>
+  <!-- <script type="module" src="./scripts/modules/input.js"></script> -->
+  <script type="module" src="./scripts/modules/main.js"></script>
+
+
+  
+</body>
+</html>

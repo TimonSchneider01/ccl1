@@ -1,0 +1,164 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    /* background-color: #f0f0f0; */
+    /* overflow: hidden;  */
+    cursor: crosshair;
+    background-color: rgb(52, 0, 37);
+    font-family: "Lilita One", serif;
+    font-weight: 400;
+    font-style: normal;
+      }
+
+#gameContainer {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    /* align-items: center; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    width: 1200px; /* change according to your game */
+    height: 100vh; 
+    overflow: hidden;
+    /* top: 0; */
+    /* border: 2px black solid */
+}
+
+#draw {
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    top: 0;
+    position: absolute;
+}
+
+#canvas {
+    height: 720px !important;
+    display: flex;
+    /* position: absolute; */
+    align-self: center;
+    /* margin: 20px; */
+    left: 0;
+    /* width: 3000px; */
+    /* padding: 20px; */
+    cursor: crosshair;
+
+}
+
+#background {
+    position: absolute;
+    /* display: flex; */
+    left: 0;
+    top: 130px;
+    width: 1200px; 
+    height: 720px;
+    /* background-image: url("../images/background.png"); */
+    background-image: url("../images/background3.png");
+    /* background-image: url("../images/background2.png"); */
+    /* background-image: url("../images/backgroundtest.jpeg"); */
+    background-size: cover;
+    image-rendering: pixelated;
+    z-index: 0;
+}
+
+
+
+#UI {
+    /* display: none; */
+    /* display: flex; */
+    /* position: fixed; */
+    border: none;
+    /* position: absolute; */
+    top: 0;
+    /* left: 0; */
+    /* top: 0; */
+    border: 1px black solid;
+    height: 126px;
+    width: 1200px;
+    background-color: wheat;   
+}
+
+#menu {
+    background-color: rgba(85, 85, 85, 0.498);
+    border-radius: 90px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-self: center;
+    transform: translateY(-100px);
+    /* margin-top: 0%; */
+    /* top: 0; */
+    /* display: none; */
+    z-index: 2;
+}
+
+#logo {
+    display: flex;
+    align-self: center;
+    height: 200px;
+    width: 400px;
+}
+#start {
+    display: flex;
+    align-self: center;
+    left: 50%;
+    cursor: pointer;
+}
+
+#lose {
+    display: none;
+    background-color: black;
+    background-repeat: none;
+    background-size: cover;
+    width: 1200px; 
+    height: 100vh;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+#win {
+    display: none;
+    background-color: black;
+    background-repeat: none;
+    background-size: cover;
+    width: 1200px; 
+    height: 100vh;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+#reload {
+    display: flex;
+    align-self: center;
+    left: 50%;
+    cursor: pointer;
+}
+
+
+
+
+canvas {
+    border: 1px black solid;
+}
+/* add styles for other HTML elements of your game */
+.lilita-one-regular {
+    font-family: "Lilita One", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgba(80, 210, 210, 0.339);
+  }
+
+  
