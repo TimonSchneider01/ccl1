@@ -61,6 +61,7 @@ Below are the sprites used to create characters and objects in the game:
 <div style="text-align: center;">
   <img src="Untitled 01-21-2025 12-41-15 (1).gif" alt="Enemy Spritesheet" width="200">
   <p>With the Grenade Sprite i tried to create something that first implodes before it explodes. </p>
+  <p>When it came to the grenade, the grimoire and the healing item, i tried prototyping first: Trying to figure out what the motion of things look like when sped up and if it feels natural. also when it's small siyed on the screen</p>
 </div>
 
 ---
@@ -69,6 +70,7 @@ Below are the sprites used to create characters and objects in the game:
 <div style="text-align: center;">
   <img src="Untitled 01-22-2025 09-54-19.gif" alt="Enemy Spritesheet" width="200">
   <p>The Grimoire the player has to retreive - lurking to be found and read to let chaos lose.</p>
+  <p>Probably enjoyed drawing this the most - which ironically lead me to draw this the fastest</p>
 </div>
 
 ---
@@ -77,6 +79,7 @@ Below are the sprites used to create characters and objects in the game:
 <div style="text-align: center;">
   <img src="Untitled 01-17-2025 09-46-30.gif" alt="Enemy Spritesheet" width="200">
   <p>The Healing Item is a Servitor Head inside of a breeding tank (not lore acurate) </p>
+  <p>First pick-up item i drew / First time working with an app called Pixel Studio - but i really liked how this turned out!</p>
 </div>
 
 ---
@@ -98,7 +101,7 @@ Below are the sprites used to create characters and objects in the game:
 ### Achievments:
 - **Time Management:** After the first two days of getting my head into the project and laying out everything i need to achieve in these days i was not stressed after all. I knew what i wanted to implement and what i need to do to achieve this. (Altough there might have been some All-nighters but just because it was fun)
   
-- **Mathmatics/Physics in JS:**: It was satisfying to implement some things i have learned in the Mathematics and Physics Course. When i had to do the shooting on mouseclick i had to do some mathematical calculations in order for the player to shoot where he presses also because there is bulletdrop!
+- **Mathmatics/Physics in JS:**: It was satisfying to implement some things i have learned in the Mathematics and Physics Course. When i had to do the shooting on mouseclick i had to do some mathematical calculations in order for the player to shoot where he presses also because there is bulletdrop! Generally speaking - implementing everything i have learned in the past semester from 2DBGC, 2DGG, Design Thinking, CSC and GDDS was an awesome feeling. Learning stuff and seeing how to use it in real life situations is one of the most satisfying things there is for me. 
 
 - **Game Graphics:** I was really satisfied with the game graphics i came up with:
   1) Spritesheets were definitely the biggest challenge. Making a walking animation was harder than anticipated but i was happy to create two rather nice ones!
