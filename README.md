@@ -81,7 +81,7 @@ Below are the sprites used to create characters and objects in the game:
 
 ---
 
-### **The Maps**:
+### **The Maps 🗺️**:
 <div style="text-align: center;">
   <img src="test.png" alt="Enemy Spritesheet" width="800">
     <p>This is the whole level layout - Player has to go from left to right.</p>
