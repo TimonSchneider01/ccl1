@@ -105,6 +105,8 @@ Below are the sprites used to create characters and objects in the game:
   2) The Grenade: i wanted to create something that feels like it implodes first and then explodes and was happy it turned out just like that
   3) The Grimoire: I was happy with the design of the grimoire and the blinking and watching eye on the cover. Also i like the sparks that surround the book.
   4) The Heal: The heal is a floating head in a jar with green liquid and bubbles. i really liked how the animations turned out at the very end!
+  5) The map: i started drawing the outside area of the map first. after that i was really satisfied with what it looked like only to realize this i like 1/10 of the whole thing. So i increased pace by a lot!
+  6) All the drawings were made by me (except the dead enemy) - no AI was used to generate any form of graphics. 
 
 
 ### Challenges:
@@ -115,4 +117,7 @@ Below are the sprites used to create characters and objects in the game:
 ### Lessons Learned:
 - **Planning:** I was really happy that i created a plan and a "backlog" right at the beginning so i had a checklist and developed a feeling for time early on! 
 - **Inspiration:** Inspiration and Passion for a Project fuels me. I chose the Warhammer40k setting for this simple reason. I knew that if i worked on something i admire i will work on it hard!
-- **Getting early feedback:** Asking my colleagues what they thought about my game and showing them what i got after one day was really helpfull to get feedback. Getting feedback right after completing said task helped me reflect on the task and not get overwhelmed by pride of being able to code this. 
+- **Getting early feedback:** Asking my colleagues what they thought about my game and showing them what i got after one day was really helpfull to get feedback. Getting feedback right after completing said task helped me reflect on the task and not get overwhelmed by pride of being able to code this.
+- **Using AI in Programming:** Of course it is needless to say that i also used AI when it came to programming. BUT there are two things i have learned from this:
+  1) Using AI for Ideas is muuuuch better rather than just copying code. Letting ChatGPT push me into the right direction was definetly the way to go. Not asking for code directly but for an approach was my way to go after realizing that:
+  2) You still need to understand what ChatGPT does. I spent some time to understand, decode and reverse-engineer whatever the LLM spat out because at the end of the day: you still need to understand what the AI did in order to implement it into your project. Which lead me to my first point again. Use AI to push my ideas rather than just letting it create my ideas in the first place! (Lesson definetly learned here)
